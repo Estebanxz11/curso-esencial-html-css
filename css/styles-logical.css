@@ -45,10 +45,10 @@ a {
   color: var(--white30);;
 }
 
-.header {
+/* .header { */
   /* position: sticky;
   inset-block-start: -45px; */
-}
+/* } */
 
 .header-content {
   /* position: relative;
